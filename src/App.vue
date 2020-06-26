@@ -2,6 +2,7 @@
   <div id="app">
     <img src="./assets/logo.png">
     <router-view/>
+    <v-btn>버튼</v-btn>
   </div>
 </template>
 
